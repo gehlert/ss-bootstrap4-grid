@@ -1,0 +1,4 @@
+de:
+  GridPage:
+      DESCRIPTION: Inhaltsseite mit Grid-Layout (basierend auf Bootstrap 4 CSS)
+      SINGULARNAME: Grid-Layout

@@ -1,5 +1,5 @@
 {
-	"name": "gehlert/ss-bootstrap4-grid",
+	"name": "gehlert/bootstrap4-grid",
 	"description": "Bootstrap-based grid layouts for SilverStripe CMS",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "bootstrap"],
@@ -10,6 +10,7 @@
 	}],
 	"require": {
 		"silverstripe/framework": ">=4.0.0",
-		"silverstripe/cms": ">=4.0.0"
+		"silverstripe/cms": ">=4.0.0",
+        "gehlert/bootstrap4-theme": "*"
 	}
 }
