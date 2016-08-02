@@ -1,0 +1,15 @@
+{
+	"name": "gehlert/ss-bootstrap4-grid",
+	"description": "Bootstrap-based grid layouts for SilverStripe CMS",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "bootstrap"],
+	"license": "BSD-3-Clause",
+	"authors": [{
+		"name": "Guido Ehlert",
+		"email": "guido.ehlert@timicx.com"
+	}],
+	"require": {
+		"silverstripe/framework": ">=4.0.0",
+		"silverstripe/cms": ">=4.0.0"
+	}
+}
