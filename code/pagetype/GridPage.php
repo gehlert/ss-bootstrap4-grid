@@ -8,7 +8,7 @@
  */
 class GridPage extends Page {
 
-    //static $allowed_children = array('ContentRow');
+    private static $allowed_children = array('ContentRow');
 
     private static $description = 'Grid Layout page (Bootstrap 4 CSS)';
 

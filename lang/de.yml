@@ -1,4 +1,7 @@
 de:
+  ContentRow:
+    DESCRIPTION: Zeile im Grid-Layout (nur zulässig unterhalb einer Grid-Layout-Seite)
+    SINGULARNAME: Layout-Zeile
   GridPage:
-      DESCRIPTION: Inhaltsseite mit Grid-Layout (basierend auf Bootstrap 4 CSS)
-      SINGULARNAME: Grid-Layout
+    DESCRIPTION: Inhaltsseite mit Grid-Layout (basierend auf Bootstrap 4 CSS)
+    SINGULARNAME: Grid-Layout
