@@ -1,2 +1,1 @@
-<p>(TextBlock)</p>
 $Content

@@ -1,4 +1,3 @@
-<p>(ContentBlock)</p>
 <% if $ClassName != "ContentBlock" %>
     <div class="$CSSClasses">
         $renderWith($ClassName)

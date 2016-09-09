@@ -1,12 +1,13 @@
 <?php
 
 class TextBlock extends ContentBlock {
-    static $singular_name = 'Text';
-    static $description = 'Text Content Block';
+    private static $singular_name = 'Text';
+    
+    private static $description = 'Text Content Block';
 
-    static $icon = 'timicx-gridpage/images/icons/text.png';
+    private static $icon = 'timicx-gridpage/images/icons/text.png';
 
-    static $hide_ancestor = 'ContentBlock';
+    private static $hide_ancestor = 'ContentBlock';
 
     public function getCMSFields() {
         $fields = parent::getCMSFields();
@@ -18,5 +19,5 @@ class TextBlock extends ContentBlock {
 }
 
 class TextBlock_Controller extends ContentBlock_Controller {
-    
+
 }

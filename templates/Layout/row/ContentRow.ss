@@ -1,5 +1,5 @@
-(ContentRow)
-<h2>$Title</h2>
+<div class="row">
 <% loop allChildren %>
     $renderWith('ContentBlock')
 <% end_loop %>
+</div>

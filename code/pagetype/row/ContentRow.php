@@ -5,7 +5,7 @@ class ContentRow extends Page {
 
     private static $description = 'Grid Layout Row';
 
-    //private static $allowed_children = array('ContentBlock');
+    private static $allowed_children = array('ContentBlock');
 
     private static $icon = 'bootstrap4-grid/images/icons/content-row.png';
 
